@@ -11,10 +11,11 @@ function Toread() {
       
       {ToRead.map((Postdata, index) => {
         return <div>
-          <Card>
+          <Card className="card">
             <CardImg top width="100%" src={Postdata.img} alt="Card image cap" />
             <CardBody>
               <CardText>{Postdata.dis}</CardText>
+              <p>{Postdata.sno}</p>
             </CardBody>
           </Card>
         </div>

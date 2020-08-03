@@ -2,7 +2,7 @@ import React, { useEffect } from "react"
 
 function Header() {
   return (
-      <h1>ACTION ITEMS</h1>
+     <h1>Action Items</h1>
   )
 }
 

@@ -1,7 +1,7 @@
 .button{
   font-size: 12px;
   padding: 10px 44px;
-  background-color: #838383;
+  background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
   border :2px solid white;
 }
 
