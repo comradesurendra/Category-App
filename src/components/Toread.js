@@ -10,7 +10,7 @@ function Toread() {
     <div className='main-container'>
       
       {ToRead.map((Postdata, index) => {
-        return <div>
+        return <a href="#">
           <Card className="card">
             <div className='number'>{Postdata.sno}</div>
             <CardImg top width="100%" src={Postdata.img} alt="Card image cap" />
@@ -19,7 +19,7 @@ function Toread() {
               
             </CardBody>
           </Card>
-        </div>
+        </a>
       })}
     </div>
   )
