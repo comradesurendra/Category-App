@@ -1,6 +1,4 @@
 import React, { useEffect } from "react"
-import Header from './Header'
-import Buttons from './Buttons'
 import ToRead from '../data/toread.json'
 import './toread.css'
 import {
@@ -10,8 +8,7 @@ import {
 function Toread() {
   return (
     <div className='main-container'>
-      <Header />
-      <Buttons />
+      
       {ToRead.map((Postdata, index) => {
         return <div>
           <Card>
