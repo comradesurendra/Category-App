@@ -1,0 +1,26 @@
+[
+  {
+    "topic": "Hair Appointment",
+    "dis": "with Dr Shobita Anand",
+    "time": "Today, 3:30 PM",
+    "status": "completed"
+  },
+  {
+    "topic": "Eat Tablet-Bromide",
+    "dis": "Follow up on your regime",
+    "time": "Today, After Lunch",
+    "status": "incomplete"
+  },
+  {
+    "topic": "Wash Hair",
+    "dis": "Use your shampoo",
+    "time": "Today, Morning Bath",
+    "status": "completed"
+  },
+  {
+    "topic": "Moisturize",
+    "dis": "use your moisturiser",
+    "time": "Before Bedtime, 26th June",
+    "status": "completed"
+  }
+]

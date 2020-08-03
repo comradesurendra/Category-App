@@ -1,0 +1,28 @@
+.main-container {
+  display: inline-block;
+  align-content: center;
+  text-align: center;
+}
+
+.background{
+  display: absolute;
+  height: 500px;
+  width: 500px;
+  bottom: 130px;
+  float: left;
+}
+
+.number {
+  height: 20px;
+  width: 20px;
+}
+
+.image-container {
+  bottom: 30px;
+  left: 50px;
+}
+
+img {
+  height: 200px;
+  width: 300px;
+}
