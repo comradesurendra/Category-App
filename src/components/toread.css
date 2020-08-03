@@ -17,10 +17,10 @@
   width: 20px;
 }
 
-.image-container {
+/* .image-container {
   bottom: 30px;
   left: 50px;
-}
+} */
 
 .card {
   box-shadow: 0 15px 30px 1px rgba(128, 128, 128, 0.31);
