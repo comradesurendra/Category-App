@@ -15,7 +15,7 @@ function Toread() {
             <div className='number'>{Postdata.sno}</div>
             <CardImg top width="100%" src={Postdata.img} alt="Card image cap" />
             <CardBody>
-              <CardText>{Postdata.dis}</CardText>
+              <CardText className='text'>{Postdata.dis}</CardText>
               
             </CardBody>
           </Card>
