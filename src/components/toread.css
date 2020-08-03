@@ -40,10 +40,10 @@
   text-align: center;
   border-radius: 5px;
   overflow: hidden;
-  margin: 5em auto;
+  margin: 1em auto;
   height: 250px;
   width: 340px;
-  background-image: linear-gradient(to top, #fdcbf1 0%, #fdcbf1 1%, #e6dee9 100%);
+  background-color: #fff1eb;
 }
 
 img {
@@ -52,4 +52,10 @@ img {
   position: absolute;
   height: 200px;
   width: 300px;
+  box-shadow: 0 15px 30px 1px rgba(128, 128, 128, 0.31);
+  background: rgba(255, 255, 255, 0.9);
+  text-align: center;
+  border-radius: 5px;
+  overflow: hidden;
+  margin: 0;
 }
